@@ -37,6 +37,10 @@ To run tests locally, run the following command from the project root directory:
 $ rspec ./spec/features/
 ```
 
+## Deployment
+
+This project is deployed to github pages
+
 ## Contributing
 
 The `source` folder contains all the pages that you will want to change, eg: `index.html.erb`. Whenever you save a change, the site will automatically reload so you can see your changes at `http://localhost:4567`.
